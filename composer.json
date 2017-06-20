@@ -1,0 +1,20 @@
+{
+    "name": "garkavenkov/grabber",
+    "description": "Grab images from site",    
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Garkavenkov",
+            "email": "maksim.garkavenkov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Garkavenkov\\Grabber\\": "src"
+        }
+    }
+}
