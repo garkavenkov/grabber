@@ -1,0 +1,14 @@
+{
+    "name": "garkavenkov/grabber",
+    "description": "Utility for download images from site",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksim Garkavenkov",
+            "email": "maksim.garkavenkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
